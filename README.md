@@ -1,2 +1,0 @@
-# Projects
-Author - Tushar Choudhary
